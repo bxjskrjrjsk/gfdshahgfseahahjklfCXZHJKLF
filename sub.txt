@@ -2,7 +2,6 @@ vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?flow=xtls-rprx-vi
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇷 Франция | Чер. Списки
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.74.6:8444?security=reality&sni=github.com&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&type=grpc&serviceName=GunService&mode=gun#🇩🇪 Германия | Чер. Списки
 vless://2a52bf1e-2bb2-402b-8284-6df456dde283@api.sinaam84.ir:443?security=tls&sni=api.sinaam84.ir&fp=firefox&type=ws&path=/PtYQchtUwy4banB7uapHVhNBBDEN5pgz&host=api.sinaam84.ir#🇦🇹 Австрия | 🔗 Каскад | Чер. Списки
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?flow=xtls-rprx-vision&security=reality&sni=poland.travel&fp=firefox&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s#🇵🇱 Польша | Чер. Списки
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?flow=xtls-rprx-vision&security=reality&sni=direct-nl.bachidze.com&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw#🇵🇱 Польша | Чер. Списки
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@50.7.176.123:443?flow=xtls-rprx-vision&security=reality&sni=direct-nl.bachidze.com&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw#🇳🇱 Нидерланды | Чер. Списки
 vless://9f56bdc2-3238-4190-9b83-1c8332a7f3f8@50d9ab69755390c8.wgse.info:443?security=tls&sni=50d9ab69755390c8.wgse.info&fp=firefox&type=xhttp&path=/xh&host=50d9ab69755390c8.wgse.info&mode=auto#🇳🇱 Нидерланды | Чер. Списки
@@ -149,6 +148,8 @@ ss://YWVzLTI1Ni1nY206MGRhZDkxMTYtZWI4OC00N2I2LTk4ZGQtNjdjOWVkNDNhZmE2@212.192.22
 ss://YWVzLTI1Ni1nY206MGRhZDkxMTYtZWI4OC00N2I2LTk4ZGQtNjdjOWVkNDNhZmE2@167.17.188.124:20246#🇭🇰 Гонконг | 🔗 Каскад | Чер. Списки
 ss://YWVzLTI1Ni1nY206MGRhZDkxMTYtZWI4OC00N2I2LTk4ZGQtNjdjOWVkNDNhZmE2@167.17.188.124:22007#🇩🇰 Дания | 🔗 Каскад | Чер. Списки
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y056UFJtV1BML3hLWjJwZktnY1VLUHVvSjhlWFdKY3dZRXRxNFlscnBwST06bUpFc2YrNDZTUGtMa0tWdWZlZWJOMTBOUWFNdG1abHozOEduT3VvdEg2OD0@with.monqela.ir:26253#🇩🇪 Германия | Чер. Списки
+vless://9780207b-d02a-493a-9bf1-ebc1a4486b34@31.76.246.50:706?security=reality&sni=www.amd.com&fp=firefox&pbk=6ABNRK-j4hVgo-DwsX3zxMSjMOuudrVZRxLde3XB530&type=grpc&serviceName=#🇬🇧 Великобритания | Чер. Списки
+vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@188.93.233.247:2053?security=reality&sni=www.intel.com&fp=firefox&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&type=grpc&serviceName=grpc&mode=gun#🇵🇹 Португалия | Чер. Списки
 vless://36a1c787-fb9e-4fea-ba54-5cb33255d4de@45.145.43.151:9443?security=tls&sni=freetg.ghost-service.cc&fp=firefox&type=ws&path=/live.stream.v1.Broadcast/&host=freetg.ghost-service.cc#🏴 Неизвестный | Чер. Списки
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?flow=xtls-rprx-vision&security=reality&sni=vextor.win&fp=firefox&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0#🏴 Неизвестный | Чер. Списки
 vless://ba123985-1cd5-4873-bc82-d20223fe5419@45.143.201.73:443?security=tls&sni=pass0-lk.cdn.cachefleet.com&alpn=h2&fp=firefox&type=grpc&serviceName=koan09kpjh33v0o04l&mode=gun#🏴 Неизвестный | Чер. Списки
